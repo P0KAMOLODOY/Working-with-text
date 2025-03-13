@@ -1,0 +1,22 @@
+start
+
+new i number
+new result number
+new multiplier number
+
+
+set i 1
+set multiplier 5
+set result 0
+
+
+loop counter (11 > i)
+
+    set result result + multiplier
+
+
+    log string multiplier >>" * " >> i >> " = ">> result
+
+    set i i + 1
+end counter
+finish
