@@ -1,0 +1,9 @@
+start
+log string " ___"
+log string "|   "
+log string "|__   "
+log string "|   "
+log string "|   "
+
+
+finish
