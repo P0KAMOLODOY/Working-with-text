@@ -1,0 +1,19 @@
+start
+new B string
+new I string
+new N string
+new G string
+new O string
+set B "B"
+set I "I"
+set N "N"
+set G "G"
+set O "O"
+
+log string B
+log string I
+log string N
+log string G
+log string O
+
+finish
